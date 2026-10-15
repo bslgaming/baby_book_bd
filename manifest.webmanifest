@@ -1,15 +1,15 @@
 {
   "id": "./",
-  "name": "সোনামণির পাঠশালা — Adventure Learning",
+  "name": "সোনামণির পাঠশালা — Storybook Atelier",
   "short_name": "সোনামণি",
-  "description": "বাংলা, English, সংখ্যা, অ্যানিমেশন ও মজার কুইজ।",
+  "description": "প্রাকৃতিক গতির গল্প-দৃশ্য, বাংলা ও English বর্ণ, সংখ্যা এবং খেলতে খেলতে শেখা।",
   "lang": "bn-BD",
   "dir": "ltr",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f8f7ff",
-  "theme_color": "#7255dc",
+  "background_color": "#f9f6ef",
+  "theme_color": "#315f51",
   "icons": [
     {
       "src": "./icons/app-192.png",

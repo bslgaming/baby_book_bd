@@ -45,3 +45,14 @@ node .\tools\generate_voicepack.mjs
 অডিও তৈরি হলে `audio/*.mp3` রেখেই ওয়েবসাইট deploy করুন। অ্যাপ অগ্রাধিকার অনুযায়ী (১) অভিভাবকের আপলোড/রেকর্ড, (২) প্যাকের MP3, (৩) সংশ্লিষ্ট ভাষার TTS চালাবে। Number ও sentence-এর বাংলা/English অডিও আলাদা, তাই একটি ভাষার অডিও ভুল মোডে চালু হয় না। একটি বাংলা বাক্যের accent/intonation বাস্তবে ঠিক আছে কি না তা বাংলা মাতৃভাষী শিক্ষক/ভয়েস আর্টিস্টকে শুনে যাচাই করতে হবে—স্বয়ংক্রিয় TTS দিয়ে শতভাগ নিশ্চিত হওয়া যায় না।
 
 `আমি বলি` মোড ব্যবহার করলে ব্রাউজারের speech recognition পরিষেবা অডিও সার্ভারে পাঠাতে পারে; সেটি ব্রাউজার/সার্ভিসভেদে নির্ভরশীল। ব্যবহারকারীর সম্মতি ও প্রাইভেসি নীতিমালা নিশ্চিত করুন।
+
+
+## Storybook Atelier — ১৬ অক্টোবর ২০২৬ ডিজাইন আপডেট
+
+- Warm-paper, forest-green, terracotta এবং soft-gold রঙের একীভূত প্রিমিয়াম ডিজাইন।
+- বাংলা, English, সংখ্যা, বাক্য ও ছড়ার কার্ডে শেয়ার্ড 2.5D SVG scene renderer।
+- প্রাকৃতিক অনুভূতির slow breathing, glide, swimming, cloud drift, leaves swaying, shadow/shimmer animations।
+- অজগরের জঙ্গলে layered body texture, realistic shading, subtle head look ও সোয়াইপে প্রতিক্রিয়া।
+- Desktop ও Mobile-এ animation toggle, reduced motion এবং অডিও workflow আগের মতো আছে।
+
+**সীমা:** এই সংস্করণে procedural 2.5D SVG illustration ব্যবহার করা হয়েছে; photorealistic 3D motion-capture animation নয়। যথার্থ শুদ্ধ বাংলা MP3 অডিও এখনো রেকর্ড বা generate করা হয়নি—যাচাই করা human voice pack প্রয়োজন।
