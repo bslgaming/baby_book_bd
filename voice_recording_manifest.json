@@ -1,0 +1,975 @@
+[
+  {
+    "audio_filename": "bn_s1.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "অ · অজগর",
+    "verified_script_to_record": "স্বরে অ। অজগর। অ তে অজগরটি আসছে তেড়ে।"
+  },
+  {
+    "audio_filename": "bn_s2.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "আ · আম",
+    "verified_script_to_record": "স্বরে আ। আম। আ তে আমটি আমি খাব পেড়ে।"
+  },
+  {
+    "audio_filename": "bn_s3.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "ই · ইঁদুর",
+    "verified_script_to_record": "হ্রস্ব ই। ইঁদুর। ই তে ইঁদুর ছানা ভয়ে মরে।"
+  },
+  {
+    "audio_filename": "bn_s4.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "ঈ · ঈগল",
+    "verified_script_to_record": "দীর্ঘ ঈ। ঈগল। ঈ তে ঈগল পাখি শিকার ধরে।"
+  },
+  {
+    "audio_filename": "bn_s5.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "উ · উট",
+    "verified_script_to_record": "হ্রস্ব উ। উট। উ তে উট চলেছে মুখটি তুলে।"
+  },
+  {
+    "audio_filename": "bn_s6.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "ঊ · ঊষা",
+    "verified_script_to_record": "দীর্ঘ ঊ। ঊষা। ঊ তে ঊষা হাসে পূব আকাশে।"
+  },
+  {
+    "audio_filename": "bn_s7.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "ঋ · ঋতু",
+    "verified_script_to_record": "ঋ। ঋতু। ঋ তে বাংলাদেশের ছয়টি ঋতু।"
+  },
+  {
+    "audio_filename": "bn_s8.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "এ · একতারা",
+    "verified_script_to_record": "এ। একতারা। এ তে একতারাটি বাজে বেশ।"
+  },
+  {
+    "audio_filename": "bn_s9.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "ঐ · ঐরাবত",
+    "verified_script_to_record": "ঐ। ঐরাবত। ঐ তে ঐরাবতটি আসছে দেখো।"
+  },
+  {
+    "audio_filename": "bn_s10.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "ও · ওলকপি",
+    "verified_script_to_record": "ও। ওলকপি। ও তে ওলকপি খাও মজা করে।"
+  },
+  {
+    "audio_filename": "bn_s11.mp3",
+    "language": "bn-BD",
+    "section": "swarabarna",
+    "lesson": "ঔ · ঔষধ",
+    "verified_script_to_record": "ঔ। ঔষধ। ঔ তে ঔষধ খাব অসুখ হলে।"
+  },
+  {
+    "audio_filename": "bn_b1.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ক · কলা",
+    "verified_script_to_record": "ক। কলা। ক তে কলা খাই শক্তি পাই।"
+  },
+  {
+    "audio_filename": "bn_b2.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "খ · খরগোশ",
+    "verified_script_to_record": "খ। খরগোশ। খ তে খরগোশ ছানা লাফিয়ে চলে।"
+  },
+  {
+    "audio_filename": "bn_b3.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "গ · গরু",
+    "verified_script_to_record": "গ। গরু। গ তে গরু দেয় মিষ্টি দুধ।"
+  },
+  {
+    "audio_filename": "bn_b4.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঘ · ঘোড়া",
+    "verified_script_to_record": "ঘ। ঘোড়া। ঘ তে ঘোড়া ছোটে টগবগিয়ে।"
+  },
+  {
+    "audio_filename": "bn_added_0.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঙ · ব্যাঙ",
+    "verified_script_to_record": "ঙ। ব্যাঙ। ব্যাঙ শব্দে ঙ।"
+  },
+  {
+    "audio_filename": "bn_b5.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "চ · চাঁদ",
+    "verified_script_to_record": "চ। চাঁদ। চ তে চাঁদ মামা দেয় আলো।"
+  },
+  {
+    "audio_filename": "bn_b6.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ছ · ছাতা",
+    "verified_script_to_record": "ছ। ছাতা। ছ তে ছাতা মাথায় বৃষ্টিতে যাই।"
+  },
+  {
+    "audio_filename": "bn_b7.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "জ · জাহাজ",
+    "verified_script_to_record": "বর্গীয় জ। জাহাজ। জ তে জাহাজ ভাসে সাগর জলে।"
+  },
+  {
+    "audio_filename": "bn_b8.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঝ · ঝুড়ি",
+    "verified_script_to_record": "ঝ। ঝুড়ি। ঝ তে ঝুড়ি ভরা তাজা ফল।"
+  },
+  {
+    "audio_filename": "bn_added_1.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঞ · পাঞ্জাবি",
+    "verified_script_to_record": "ঞ। পাঞ্জাবি। পাঞ্জাবি শব্দে ঞ।"
+  },
+  {
+    "audio_filename": "bn_b9.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ট · টিয়া",
+    "verified_script_to_record": "ট। টিয়া। ট তে টিয়া পাখির ঠোঁটটি লাল।"
+  },
+  {
+    "audio_filename": "bn_added_2.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঠ · ঠেলাগাড়ি",
+    "verified_script_to_record": "ঠ। ঠেলাগাড়ি। ঠ তে ঠেলাগাড়ি।"
+  },
+  {
+    "audio_filename": "bn_b10.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ড · ডাব",
+    "verified_script_to_record": "ড। ডাব। ড তে ডাবের পানি মিষ্টি খুব।"
+  },
+  {
+    "audio_filename": "bn_added_3.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঢ · ঢোল",
+    "verified_script_to_record": "ঢ। ঢোল। ঢ তে ঢোল।"
+  },
+  {
+    "audio_filename": "bn_added_4.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ণ · হরিণ",
+    "verified_script_to_record": "ণ। হরিণ। হরিণ শব্দে ণ।"
+  },
+  {
+    "audio_filename": "bn_b11.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ত · তরমুজ",
+    "verified_script_to_record": "ত। তরমুজ। ত তে তরমুজ খাব গরমের দিনে।"
+  },
+  {
+    "audio_filename": "bn_added_5.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "থ · থালা",
+    "verified_script_to_record": "থ। থালা। থ তে থালা।"
+  },
+  {
+    "audio_filename": "bn_b12.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "দ · দোয়েল",
+    "verified_script_to_record": "দ। দোয়েল। দ তে দোয়েল আমাদের জাতীয় পাখি।"
+  },
+  {
+    "audio_filename": "bn_added_6.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ধ · ধান",
+    "verified_script_to_record": "ধ। ধান। ধ তে ধান।"
+  },
+  {
+    "audio_filename": "bn_added_7.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ন · নৌকা",
+    "verified_script_to_record": "ন। নৌকা। ন তে নৌকা।"
+  },
+  {
+    "audio_filename": "bn_b13.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "প · প্রজাপতি",
+    "verified_script_to_record": "প। প্রজাপতি। প তে প্রজাপতির রঙিন ডানা।"
+  },
+  {
+    "audio_filename": "bn_b14.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ফ · ফুল",
+    "verified_script_to_record": "ফ। ফুল। ফ তে বাগানে ফোটে সুন্দর ফুল।"
+  },
+  {
+    "audio_filename": "bn_b15.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ব · বই",
+    "verified_script_to_record": "ব। বই। ব তে বই পড়ি জ্ঞান বাড়াই।"
+  },
+  {
+    "audio_filename": "bn_b16.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ভ · ভালুক",
+    "verified_script_to_record": "ভ। ভালুক। ভ তে ভালুক নাচে তা ধিন ধিন।"
+  },
+  {
+    "audio_filename": "bn_b17.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ম · মাছ",
+    "verified_script_to_record": "ম। মাছ। ম তে মাছ সাঁতার কাটে পানিতে।"
+  },
+  {
+    "audio_filename": "bn_added_8.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "য · যন্ত্র",
+    "verified_script_to_record": "য। যন্ত্র। য তে যন্ত্র।"
+  },
+  {
+    "audio_filename": "bn_b18.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "র · রাজহাঁস",
+    "verified_script_to_record": "বয় শূন্য র। রাজহাঁস। র তে রাজহাঁস পুকুরে ভাসে।"
+  },
+  {
+    "audio_filename": "bn_added_9.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ল · লাটিম",
+    "verified_script_to_record": "ল। লাটিম। ল তে লাটিম।"
+  },
+  {
+    "audio_filename": "bn_b19.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "শ · শাপলা",
+    "verified_script_to_record": "তালব্য শ। শাপলা। শ তে শাপলা আমাদের জাতীয় ফুল।"
+  },
+  {
+    "audio_filename": "bn_added_10.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ষ · ষাঁড়",
+    "verified_script_to_record": "ষ। ষাঁড়। ষ তে ষাঁড়।"
+  },
+  {
+    "audio_filename": "bn_added_11.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "স · সূর্য",
+    "verified_script_to_record": "স। সূর্য। স তে সূর্য।"
+  },
+  {
+    "audio_filename": "bn_b20.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "হ · হাতি",
+    "verified_script_to_record": "হ। হাতি। হ তে হাতির আছে লম্বা শুঁড়।"
+  },
+  {
+    "audio_filename": "bn_added_12.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ড় · গাড়ি",
+    "verified_script_to_record": "ড়। গাড়ি। গাড়ি শব্দে ড়।"
+  },
+  {
+    "audio_filename": "bn_added_13.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঢ় · আষাঢ়",
+    "verified_script_to_record": "ঢ়। আষাঢ়। আষাঢ় শব্দে ঢ়।"
+  },
+  {
+    "audio_filename": "bn_added_14.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "য় · ময়ূর",
+    "verified_script_to_record": "য়। ময়ূর। ময়ূর শব্দে য়।"
+  },
+  {
+    "audio_filename": "bn_added_15.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ৎ · উৎসব",
+    "verified_script_to_record": "ৎ। উৎসব। উৎসব শব্দে ৎ।"
+  },
+  {
+    "audio_filename": "bn_added_16.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ং · রং",
+    "verified_script_to_record": "ং। রং। রং শব্দে ং।"
+  },
+  {
+    "audio_filename": "bn_added_17.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঃ · দুঃখ",
+    "verified_script_to_record": "ঃ। দুঃখ। দুঃখ শব্দে ঃ।"
+  },
+  {
+    "audio_filename": "bn_added_18.mp3",
+    "language": "bn-BD",
+    "section": "byanjanbarna",
+    "lesson": "ঁ · চাঁদ",
+    "verified_script_to_record": "ঁ। চাঁদ। চাঁদ শব্দে চন্দ্রবিন্দু।"
+  },
+  {
+    "audio_filename": "num_1_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১ · এক",
+    "verified_script_to_record": "এক, আকাশে একটি উজ্জ্বল সূর্য।"
+  },
+  {
+    "audio_filename": "num_1_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "1 · One",
+    "verified_script_to_record": "One! One bright Sun."
+  },
+  {
+    "audio_filename": "num_2_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "২ · দুই",
+    "verified_script_to_record": "দুই, এখানে দুইটি খরগোশ ছানা।"
+  },
+  {
+    "audio_filename": "num_2_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "2 · Two",
+    "verified_script_to_record": "Two! Two cute Rabbits."
+  },
+  {
+    "audio_filename": "num_3_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "৩ · তিন",
+    "verified_script_to_record": "তিন, এখানে তিনটি লাল আপেল।"
+  },
+  {
+    "audio_filename": "num_3_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "3 · Three",
+    "verified_script_to_record": "Three! Three red Apples."
+  },
+  {
+    "audio_filename": "num_4_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "৪ · চার",
+    "verified_script_to_record": "চার, এখানে চারটি সুন্দর গাড়ি।"
+  },
+  {
+    "audio_filename": "num_4_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "4 · Four",
+    "verified_script_to_record": "Four! Four little Cars."
+  },
+  {
+    "audio_filename": "num_5_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "৫ · পাঁচ",
+    "verified_script_to_record": "পাঁচ, আকাশে পাঁচটি তারা।"
+  },
+  {
+    "audio_filename": "num_5_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "5 · Five",
+    "verified_script_to_record": "Five! Five shining Stars."
+  },
+  {
+    "audio_filename": "num_6_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "৬ · ছয়",
+    "verified_script_to_record": "ছয়, এখানে ছয়টি পাখি।"
+  },
+  {
+    "audio_filename": "num_6_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "6 · Six",
+    "verified_script_to_record": "Six! Six happy Birds."
+  },
+  {
+    "audio_filename": "num_7_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "৭ · সাত",
+    "verified_script_to_record": "সাত, বাগানে সাতটি রঙিন ফুল।"
+  },
+  {
+    "audio_filename": "num_7_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "7 · Seven",
+    "verified_script_to_record": "Seven! Seven colorful Flowers."
+  },
+  {
+    "audio_filename": "num_8_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "৮ · আট",
+    "verified_script_to_record": "আট, এখানে আটটি পাকা আম।"
+  },
+  {
+    "audio_filename": "num_8_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "8 · Eight",
+    "verified_script_to_record": "Eight! Eight sweet Mangoes."
+  },
+  {
+    "audio_filename": "num_9_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "৯ · নয়",
+    "verified_script_to_record": "নয়, এখানে নয়টি রঙিন প্রজাপতি।"
+  },
+  {
+    "audio_filename": "num_9_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "9 · Nine",
+    "verified_script_to_record": "Nine! Nine pretty Butterflies."
+  },
+  {
+    "audio_filename": "num_10_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১০ · দশ",
+    "verified_script_to_record": "দশ, পানিতে দশটি মাছ সাঁতার কাটছে।"
+  },
+  {
+    "audio_filename": "num_10_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "10 · Ten",
+    "verified_script_to_record": "Ten! Ten little Fishes."
+  },
+  {
+    "audio_filename": "num_11_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১১ · এগারো",
+    "verified_script_to_record": "এগারো, এখানে ১১টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_11_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "11 · Eleven",
+    "verified_script_to_record": "Eleven! Count 11 objects."
+  },
+  {
+    "audio_filename": "num_12_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১২ · বারো",
+    "verified_script_to_record": "বারো, এখানে ১২টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_12_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "12 · Twelve",
+    "verified_script_to_record": "Twelve! Count 12 objects."
+  },
+  {
+    "audio_filename": "num_13_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১৩ · তেরো",
+    "verified_script_to_record": "তেরো, এখানে ১৩টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_13_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "13 · Thirteen",
+    "verified_script_to_record": "Thirteen! Count 13 objects."
+  },
+  {
+    "audio_filename": "num_14_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১৪ · চৌদ্দ",
+    "verified_script_to_record": "চৌদ্দ, এখানে ১৪টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_14_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "14 · Fourteen",
+    "verified_script_to_record": "Fourteen! Count 14 objects."
+  },
+  {
+    "audio_filename": "num_15_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১৫ · পনেরো",
+    "verified_script_to_record": "পনেরো, এখানে ১৫টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_15_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "15 · Fifteen",
+    "verified_script_to_record": "Fifteen! Count 15 objects."
+  },
+  {
+    "audio_filename": "num_16_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১৬ · ষোলো",
+    "verified_script_to_record": "ষোলো, এখানে ১৬টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_16_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "16 · Sixteen",
+    "verified_script_to_record": "Sixteen! Count 16 objects."
+  },
+  {
+    "audio_filename": "num_17_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১৭ · সতেরো",
+    "verified_script_to_record": "সতেরো, এখানে ১৭টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_17_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "17 · Seventeen",
+    "verified_script_to_record": "Seventeen! Count 17 objects."
+  },
+  {
+    "audio_filename": "num_18_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১৮ · আঠারো",
+    "verified_script_to_record": "আঠারো, এখানে ১৮টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_18_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "18 · Eighteen",
+    "verified_script_to_record": "Eighteen! Count 18 objects."
+  },
+  {
+    "audio_filename": "num_19_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "১৯ · উনিশ",
+    "verified_script_to_record": "উনিশ, এখানে ১৯টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_19_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "19 · Nineteen",
+    "verified_script_to_record": "Nineteen! Count 19 objects."
+  },
+  {
+    "audio_filename": "num_20_bn.mp3",
+    "language": "bn-BD",
+    "section": "numbers",
+    "lesson": "২০ · বিশ",
+    "verified_script_to_record": "বিশ, এখানে ২০টি জিনিস।"
+  },
+  {
+    "audio_filename": "num_20_en.mp3",
+    "language": "en-US",
+    "section": "numbers",
+    "lesson": "20 · Twenty",
+    "verified_script_to_record": "Twenty! Count 20 objects."
+  },
+  {
+    "audio_filename": "sen_1_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "সুপ্রভাত আম্মু ও আব্বু!",
+    "verified_script_to_record": "সুপ্রভাত আম্মু ও আব্বু!"
+  },
+  {
+    "audio_filename": "sen_1_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "Good Morning Mommy and Daddy!",
+    "verified_script_to_record": "Good Morning Mommy and Daddy!"
+  },
+  {
+    "audio_filename": "sen_2_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "আম্মু, আমি পানি খাব।",
+    "verified_script_to_record": "আম্মু, আমি পানি খাব।"
+  },
+  {
+    "audio_filename": "sen_2_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "Mommy, I want to drink water.",
+    "verified_script_to_record": "Mommy, I want to drink water."
+  },
+  {
+    "audio_filename": "sen_3_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "আমার ক্ষুধা লেগেছে, খাবার দাও।",
+    "verified_script_to_record": "আমার ক্ষুধা লেগেছে, খাবার দাও।"
+  },
+  {
+    "audio_filename": "sen_3_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "I am hungry, please give me food.",
+    "verified_script_to_record": "I am hungry, please give me food."
+  },
+  {
+    "audio_filename": "sen_4_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "আম্মু, আমার কাছে আসো।",
+    "verified_script_to_record": "আম্মু, আমার কাছে আসো।"
+  },
+  {
+    "audio_filename": "sen_4_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "Come to me, Mommy.",
+    "verified_script_to_record": "Come to me, Mommy."
+  },
+  {
+    "audio_filename": "sen_5_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "তোমাকে অনেক ধন্যবাদ!",
+    "verified_script_to_record": "তোমাকে অনেক ধন্যবাদ!"
+  },
+  {
+    "audio_filename": "sen_5_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "Thank you very much!",
+    "verified_script_to_record": "Thank you very much!"
+  },
+  {
+    "audio_filename": "sen_6_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "চলো এখন খেলতে যাই!",
+    "verified_script_to_record": "চলো এখন খেলতে যাই!"
+  },
+  {
+    "audio_filename": "sen_6_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "Let us go and play now!",
+    "verified_script_to_record": "Let us go and play now!"
+  },
+  {
+    "audio_filename": "sen_7_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "আম্মু আব্বু, আমি তোমাদের ভালোবাসি।",
+    "verified_script_to_record": "আম্মু আব্বু, আমি তোমাদের ভালোবাসি।"
+  },
+  {
+    "audio_filename": "sen_7_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "Mommy and Daddy, I love you so much.",
+    "verified_script_to_record": "Mommy and Daddy, I love you so much."
+  },
+  {
+    "audio_filename": "sen_8_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "আমি এখন ঘুমাব, শুভ রাত্রি।",
+    "verified_script_to_record": "আমি এখন ঘুমাব, শুভ রাত্রি।"
+  },
+  {
+    "audio_filename": "sen_8_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "I will go to sleep now, Good Night.",
+    "verified_script_to_record": "I will go to sleep now, Good Night."
+  },
+  {
+    "audio_filename": "sen_9_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "প্রতিদিন দাঁত ব্রাশ করা ভালো অভ্যাস।",
+    "verified_script_to_record": "প্রতিদিন দাঁত ব্রাশ করা ভালো অভ্যাস।"
+  },
+  {
+    "audio_filename": "sen_9_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "Brushing teeth every day is a good habit.",
+    "verified_script_to_record": "Brushing teeth every day is a good habit."
+  },
+  {
+    "audio_filename": "sen_10_bn.mp3",
+    "language": "bn-BD",
+    "section": "sentences",
+    "lesson": "আমাকে একটা মজার গল্প শোনাও।",
+    "verified_script_to_record": "আমাকে একটা মজার গল্প শোনাও।"
+  },
+  {
+    "audio_filename": "sen_10_en.mp3",
+    "language": "en-US",
+    "section": "sentences",
+    "lesson": "Please tell me a funny story.",
+    "verified_script_to_record": "Please tell me a funny story."
+  },
+  {
+    "audio_filename": "rhyme_bn_1.mp3",
+    "language": "bn-BD",
+    "section": "rhymes",
+    "lesson": "আতা গাছে তোতা পাখি",
+    "verified_script_to_record": "আতা গাছে তোতা পাখি,\nডালিম গাছে মৌ।\nএত ডাকি তবু কথা,\nকও না কেন বউ?"
+  },
+  {
+    "audio_filename": "rhyme_bn_2.mp3",
+    "language": "bn-BD",
+    "section": "rhymes",
+    "lesson": "আয় আয় চাঁদ মামা",
+    "verified_script_to_record": "আয় আয় চাঁদ মামা টিপ দিয়ে যা,\nচাঁদের কপালে চাঁদ টিপ দিয়ে যা।\nধান ভানলে কুঁড়ো দেব, মাছ কাটলে মুড়ো দেব,\nকালো গাইয়ের দুধ দেব, দুধ খাবার বাটি দেব।"
+  },
+  {
+    "audio_filename": "rhyme_bn_3.mp3",
+    "language": "bn-BD",
+    "section": "rhymes",
+    "lesson": "হাট্টিমাটিম টিম",
+    "verified_script_to_record": "হাট্টিমাটিম টিম,\nতারা মাঠে পাড়ে ডিম।\nতাদের খাড়া দুটো শিং,\nতারা হাট্টিমাটিম টিম!"
+  },
+  {
+    "audio_filename": "en_A.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Apple",
+    "verified_script_to_record": "A! A for Apple."
+  },
+  {
+    "audio_filename": "en_B.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Ball",
+    "verified_script_to_record": "B! B for Ball."
+  },
+  {
+    "audio_filename": "en_C.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Cat",
+    "verified_script_to_record": "C! C for Cat."
+  },
+  {
+    "audio_filename": "en_D.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Dog",
+    "verified_script_to_record": "D! D for Dog."
+  },
+  {
+    "audio_filename": "en_E.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Elephant",
+    "verified_script_to_record": "E! E for Elephant."
+  },
+  {
+    "audio_filename": "en_F.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Fish",
+    "verified_script_to_record": "F! F for Fish."
+  },
+  {
+    "audio_filename": "en_G.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Grapes",
+    "verified_script_to_record": "G! G for Grapes."
+  },
+  {
+    "audio_filename": "en_H.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Hen",
+    "verified_script_to_record": "H! H for Hen."
+  },
+  {
+    "audio_filename": "en_I.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Ice Cream",
+    "verified_script_to_record": "I! I for Ice Cream."
+  },
+  {
+    "audio_filename": "en_J.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Jug",
+    "verified_script_to_record": "J! J for Jug."
+  },
+  {
+    "audio_filename": "en_K.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Kite",
+    "verified_script_to_record": "K! K for Kite."
+  },
+  {
+    "audio_filename": "en_L.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Lion",
+    "verified_script_to_record": "L! L for Lion."
+  },
+  {
+    "audio_filename": "en_M.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Mango",
+    "verified_script_to_record": "M! M for Mango."
+  },
+  {
+    "audio_filename": "en_N.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Nest",
+    "verified_script_to_record": "N! N for Nest."
+  },
+  {
+    "audio_filename": "en_O.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Orange",
+    "verified_script_to_record": "O! O for Orange."
+  },
+  {
+    "audio_filename": "en_P.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Parrot",
+    "verified_script_to_record": "P! P for Parrot."
+  },
+  {
+    "audio_filename": "en_Q.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Queen",
+    "verified_script_to_record": "Q! Q for Queen."
+  },
+  {
+    "audio_filename": "en_R.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Rabbit",
+    "verified_script_to_record": "R! R for Rabbit."
+  },
+  {
+    "audio_filename": "en_S.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Sun",
+    "verified_script_to_record": "S! S for Sun."
+  },
+  {
+    "audio_filename": "en_T.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Tiger",
+    "verified_script_to_record": "T! T for Tiger."
+  },
+  {
+    "audio_filename": "en_U.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Umbrella",
+    "verified_script_to_record": "U! U for Umbrella."
+  },
+  {
+    "audio_filename": "en_V.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Van",
+    "verified_script_to_record": "V! V for Van."
+  },
+  {
+    "audio_filename": "en_W.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Watch",
+    "verified_script_to_record": "W! W for Watch."
+  },
+  {
+    "audio_filename": "en_X.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Xylophone",
+    "verified_script_to_record": "X! X for Xylophone."
+  },
+  {
+    "audio_filename": "en_Y.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Yo-Yo",
+    "verified_script_to_record": "Y! Y for Yo Yo."
+  },
+  {
+    "audio_filename": "en_Z.mp3",
+    "language": "en-US",
+    "section": "english",
+    "lesson": "Zebra",
+    "verified_script_to_record": "Z! Z for Zebra."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "সোনামণির পাঠশালা — Adventure Learning",
+  "short_name": "সোনামণি",
+  "description": "বাংলা, English, সংখ্যা, অ্যানিমেশন ও মজার কুইজ।",
+  "lang": "bn-BD",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f7ff",
+  "theme_color": "#7255dc",
+  "icons": [
+    {
+      "src": "./icons/app-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/app-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
